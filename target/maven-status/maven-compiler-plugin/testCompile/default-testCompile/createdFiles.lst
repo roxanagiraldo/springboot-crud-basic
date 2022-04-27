@@ -1,0 +1,6 @@
+com\company\springbootcrudbasic\service\impl\PersonServiceTest.class
+com\company\springbootcrudbasic\SpringbootCrudBasicApplicationTests.class
+com\company\springbootcrudbasic\controller\AuthorControllerTest.class
+com\company\springbootcrudbasic\controller\PersonControllerTest.class
+com\company\springbootcrudbasic\jook\service\AuthorServiceTest.class
+com\company\springbootcrudbasic\service\impl\ValidatorTest.class

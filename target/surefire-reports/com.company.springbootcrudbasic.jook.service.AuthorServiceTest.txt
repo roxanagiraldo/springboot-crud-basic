@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.company.springbootcrudbasic.jook.service.AuthorServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.789 s <<< FAILURE! - in com.company.springbootcrudbasic.jook.service.AuthorServiceTest
+getAuthorTest  Time elapsed: 0.574 s  <<< ERROR!
+java.lang.NullPointerException: Cannot read field "fields" because "this.fields" is null
+	at com.company.springbootcrudbasic.jook.service.AuthorServiceTest.getAuthorTest(AuthorServiceTest.java:65)
+
